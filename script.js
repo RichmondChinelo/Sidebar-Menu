@@ -20,3 +20,4 @@ function linkbg() {
     this.classList.add('active')
 }
 linkactive.forEach(link => link.addEventListener('click', linkbg))
+alert("You Are On Chinelo's Sidebar Menu. Tap on OK to continue")
