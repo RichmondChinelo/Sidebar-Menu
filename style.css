@@ -225,3 +225,7 @@ nav:hover::-webkit-scrollbar-thumb {
     margin: 2.5em 0 auto 2.5em;
     color: var(--color-second);
 }
+.main h1 span {
+    align-items: center;
+    justify-content: center;
+}
